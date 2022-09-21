@@ -2,14 +2,15 @@
 
 by Divesh Thakre
 
-## what concepts i Learned by Creating this website?
 
  ![badge](https://img.shields.io/badge/Project-1-blue)
 
 
 ![preview](./assets/01.jpg)
 
-[Deployed link link]()
+[Deployed link ](https://divesh1.netlify.app/)
+
+## what concepts i Learned by Creating this website?
 
 - This project was fun i used some css position property.
 - Gained confidence on css selectors.
